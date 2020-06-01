@@ -1,0 +1,3 @@
+massv	hovaten	class	gender	hobby
+17130028	Nguyen Van Thien	DTC	Nam	Doc sach
+17130029	Nguyen Thuy Vi	DTC	Nu	Tra sua
