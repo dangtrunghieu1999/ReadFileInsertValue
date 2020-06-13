@@ -19,13 +19,14 @@ public class ReadFileTXT {
 		String username = "root";
 		String password = "trunghieu230899";
 		String filePath = "Student.txt";
+		String dilimeted = "	";
 		Connection connection = null;
 		
 		try {
 			Class.forName("com.mysql.jdbc.Driver");
 			connection = DriverManager.getConnection(jdbcURL, username, password);
 			connection.setAutoCommit(false);
-			String sql = "INSERT INTO Student (id_student, full_name, id_class, gender, hobby) VALUES  (?,?,?,?,?)";
+			String sql = "INSERT INTO Student (id, full_name, id_class, gender, hobby) VALUES  (?,?,?,?,?)";
 			PreparedStatement statement = connection.prepareStatement(sql);
 			
 			FileInputStream fis = null;
@@ -48,7 +49,7 @@ public class ReadFileTXT {
 						break;
 					} else {
 						if (counter > START_LINE) {
-							arrayData = line.split("[,\\;?@	]");
+							arrayData = line.split(dilimeted);
 							statement.setString(1, arrayData[0]);
 							statement.setString(2, arrayData[1]);
 							statement.setString(3, arrayData[2]);

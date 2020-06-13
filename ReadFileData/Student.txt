@@ -1,3 +1,26 @@
-massv	hovaten	class	gender	hobby
-17130028	Nguyen Van Thien	DTC	Nam	Doc sach
-17130029	Nguyen Thuy Vi	DTC	Nu	Tra sua
+
+17130001	Ngô Vĩ An	DTA	Nam	Chơi game
+17130002	Đào Thị Kim Anh	DTA	Nữ	Mua sắm
+17130003	Vũ Huỳnh Như Anh	DTB	Nữ	Trà sữa
+17130004	Nguyễn Như Bảo	DTC	Nam	Đi phượt
+17130005	Lê Nguyễn Nhật Bình	DTA	Nam	Đọc sách
+17130006	Ngyễn Việt Chương	DTC	Nam	Chơi game
+17130007	Vũ Như Chương	DTA	Nam	Đọc sách
+17130008	Phùng Quốc Cường	DTA	Nam	Chơi game
+17130009	Huỳnh Khương Duy	DTC	Nam	Du lịch
+17130010	Thái Ngọc Lê Duy	DTB	Nam	Chơi game
+17130011	Lăng Thị Mỹ Duyên	DTA	Nữ	Du lịch
+17130012	Trần Thị Mỹ Duyên	DTC	Nữ	Mua sắm
+17130013	Phạm Tấn Đạt	DTB	Nam	Chơi game
+17130014	Trương Quý Đức	DTC	Nam	Chơi game
+17130015	Bùi Hoàng Gia	DTA	Nam	Đọc sách
+17130016	Nguyễn Thị Giang	DTA	Nữ	Đọc sách
+17130017	Đào Ngọc Hải	DTB	Nam	Chơi game
+17130018	Nguyễn Hữu Hải	DTB	Nam	Chơi game
+17130020	Trương Thị Mỹ Hảo	DTB	Nữ	Du lịch
+17130021	Nguyễn Thị Thuý Hằng	DTC	Nữ	Đi phượt
+17130022	Trần Thanh Hậu	DTC	Nam	Chơi game
+17130023	Nguyễn Thanh Hiền	DTA	Nam	Đọc sách
+17130024	Đặng Trung Hiếu	DTA	Nam	Chơi game
+17130025	Đỗ Kim Hiếu	DTC	Nữ	Mua sắm
+17130026	Nguyễn Minh Hiếu	DTB	Nam	Trà sữa
